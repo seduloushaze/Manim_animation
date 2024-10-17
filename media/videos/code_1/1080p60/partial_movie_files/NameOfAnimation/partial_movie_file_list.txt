@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/3977891868_1908770608_223132457.mp4'
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/2852726489_4120440088_3171333892.mp4'
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/2852726489_4155402647_531380578.mp4'
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/2852726489_67904112_2506467364.mp4'
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/2852726489_3642228419_1003465272.mp4'
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/2852726489_1816887110_1003465272.mp4'
+file 'file:C:/Users/vaish/OneDrive/Desktop/VAISHNAVI/coding/AIC_launch_video_manim/practice_manim/media/videos/code_1/1080p60/partial_movie_files/NameOfAnimation/2852726489_2208436514_1003465272.mp4'
